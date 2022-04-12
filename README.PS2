@@ -1,0 +1,16 @@
+Here you can find my PS2 port of Nicky Boum, a popular game among Amigans, from the NickyBoumPSP port by deniska, from of the original Nicky Boum engine rewrite by Gregory Montoir.
+
+The controls are:
+
+Left analog stick for movement, 'X' button for fire (hold it for 'boum'), 'O' for jump, L1 for skip level, L2 for quit current live, R1 for adding all bonuses, 'Select' for pausing and 'Start' for quiting game. Any USB keyboard compatible with the PS2 is also supported.
+
+The original game has some aparent bugs and it was not extensively tested, but it's not my intention to fix any of the original engine bugs or missing features. Please expect not much future releases from me.
+
+
+
+ .Changes from PSP deniska version:
+
+The sound in ps2sdk SDL is not working in at 100%. I decided to commented the music playing and use sdlmixer mod play which is working perfectly. I've got the original mods from modarchive.org and added to the package since the songs seems not to be in compatible mod format. I added the option at startup for sound sfx only (for those who want that experience) and music only.
+
+--------------
+cosmito @ 2010
