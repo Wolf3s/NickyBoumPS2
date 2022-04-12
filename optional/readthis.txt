@@ -1,0 +1,8 @@
+In this folder are the modified gsKit version I'm using for getting real low-resolution display (320x256) instead of the default flickering 640x512.
+
+Also, you'll find my modified sdlmixer removing the max volume of 128 limitation, just to get louder mod play.
+
+I built NickyBoumPS2 with an old ps2sdk revision 1472 just because I couldn't be bothered to get an updated one :P I'm might update it and re-build it just to see if it still works.
+
+--------------
+cosmito @ 2010
